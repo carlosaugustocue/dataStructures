@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Punto 1: Creación y recorrido de una lista de elementos
  * Conceptos: ArrayList básico, add(), size(), recorridos con for y for-each
  */
-public class Punto1_Frutas {
+public class Punto1Frutas {
 
     public static void main(String[] args) {
         // 1. Crear una ArrayList<String> llamada frutas

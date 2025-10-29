@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Punto 2: Inserción, modificación y eliminación de elementos
  * Conceptos: add(index, elemento), set(index, elemento), remove(index)
  */
-public class Punto2_Ciudades {
+public class Punto2Ciudades {
 
     public static void main(String[] args) {
         // 1. Crear una ArrayList<String> con nombres de tres ciudades

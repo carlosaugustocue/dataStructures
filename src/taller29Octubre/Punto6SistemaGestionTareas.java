@@ -6,7 +6,7 @@ import java.util.Comparator;
  * Punto 6: Sistema de Gestión de Tareas
  * Sistema completo para administrar tareas con diferentes estados
  */
-public class Punto6_SistemaGestionTareas {
+public class Punto6SistemaGestionTareas {
     
     // ArrayList global para almacenar las tareas
     private static ArrayList<Tarea> listaTareas = new ArrayList<>();

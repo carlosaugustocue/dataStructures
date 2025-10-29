@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Punto 4: Combinación y limpieza de listas
  * Conceptos: addAll(), clear(), isEmpty()
  */
-public class Punto4_Colores {
+public class Punto4Colores {
     
     public static void main(String[] args) {
         // 1. Crear dos ArrayList<String>, cada una con al menos tres colores diferentes
@@ -12,6 +12,8 @@ public class Punto4_Colores {
         coloresCalidos.add("Rojo");
         coloresCalidos.add("Naranja");
         coloresCalidos.add("Amarillo");
+
+
         
         ArrayList<String> coloresFrios = new ArrayList<>();
         coloresFrios.add("Azul");

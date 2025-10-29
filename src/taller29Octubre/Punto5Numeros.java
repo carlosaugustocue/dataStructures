@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Punto 5: Recorrido inverso y filtrado
  * Conceptos: recorrido inverso con bucle for, filtrado con condiciones
  */
-public class Punto5_Numeros {
+public class Punto5Numeros {
     
     public static void main(String[] args) {
         // 1. Crear una ArrayList<Integer> con al menos 10 números enteros

@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Punto 3: Búsqueda y validación dentro de la lista
  * Conceptos: contains(), indexOf()
  */
-public class Punto3_Estudiantes {
+public class Punto3Estudiantes {
     
     public static void main(String[] args) {
         // 1. Crear una ArrayList<String> con nombres de estudiantes

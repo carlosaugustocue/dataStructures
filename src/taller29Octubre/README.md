@@ -10,13 +10,13 @@ Este proyecto contiene las soluciones a los 6 ejercicios de la actividad de clas
 ### Ejercicios Básicos (1-5)
 - **Punto1_Frutas.java** - Creación y recorrido de listas
 - **Punto2_Ciudades.java** - Inserción, modificación y eliminación
-- **Punto3_Estudiantes.java** - Búsqueda y validación
+- **Punto3Estudiantes.java** - Búsqueda y validación
 - **Punto4_Colores.java** - Combinación y limpieza de listas
-- **Punto5_Numeros.java** - Recorrido inverso y filtrado
+- **Punto5Numeros.java** - Recorrido inverso y filtrado
 
 ### Sistema Completo (6)
 - **Tarea.java** - Clase modelo para representar una tarea
-- **Punto6_SistemaGestionTareas.java** - Sistema completo de gestión de tareas
+- **Punto6SistemaGestionTareas.java** - Sistema completo de gestión de tareas
 
 ---
 
@@ -35,8 +35,8 @@ java Punto2_Ciudades
 # ... y así sucesivamente
 
 # Para el punto 6 (requiere compilar ambos archivos)
-javac Tarea.java Punto6_SistemaGestionTareas.java
-java Punto6_SistemaGestionTareas
+javac Tarea.java Punto6SistemaGestionTareas.java
+java Punto6SistemaGestionTareas
 ```
 
 ### Opción 2: Desde un IDE (Eclipse, IntelliJ, NetBeans, VS Code)
