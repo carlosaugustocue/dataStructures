@@ -11,7 +11,7 @@ public class CopiaArrayList {
         List<String> estudiantes = new ArrayList<>();
         estudiantes.add("Laura");
 
-        List<String> docentes = new ArrayList<>(estudiantes); // misma referencia
+        List<String> docentes = new ArrayList<>(estudiantes);
 
         estudiantes.add("Carlos");
         estudiantes.add("Ana");
